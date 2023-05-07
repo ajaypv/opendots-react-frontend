@@ -1,0 +1,1 @@
+ const db = db // Call the db function to get the Firestore instance
